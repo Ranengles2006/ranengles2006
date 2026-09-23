@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00BA71&height=220&section=header&text=FLEX&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00BA71&height=220&section=header&text=&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00BA71&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;UI%2FUX+Enthusiast;AI+%26+Web+Explorer;Digital+Product+Builder;Turning+Ideas+Into+Reality" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00BA71&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;UI%2FUX+Enthusiast;AI+%26+Web+Developer;Digital+Product+Builder;Turning+Ideas+Into+Reality" />
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 ---
 
-# 👋 Hello, I'm Flex
+# 👋 Hello, Welcome to my GITHUB
 
 <table>
 <tr>
@@ -76,10 +76,6 @@ I enjoy taking an idea from:
 
 <img src="https://skillicons.dev/icons?i=firebase,supabase,git,github,vscode,docker" />
 
-### Design
-
-<img src="https://skillicons.dev/icons?i=figma,photoshop" />
-
 </div>
 
 ---
@@ -99,121 +95,9 @@ Cloud Technologies       █████████████░░░░░�
 
 ---
 
-# 🚀 Featured Projects
 
-<div align="center">
 
-<table>
-<tr>
 
-<td width="50%">
-
-### 🎵 Hever
-
-**Modern music platform**
-
-A clean music experience focused on discovering and listening to songs with a smooth interface.
-
-**Stack**
-
-`HTML` `CSS` `JavaScript` `Firebase`
-
-</td>
-
-<td width="50%">
-
-### ⛏️ Zovamine
-
-**Cloud-mining platform concept**
-
-A modern dashboard concept with real-time style statistics, contracts, transactions and account management.
-
-**Stack**
-
-`HTML` `CSS` `JavaScript` `Firebase`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🛍️ Lumina
-
-**Fashion e-commerce**
-
-A modern fashion shopping experience designed around clean product discovery and responsive UI.
-
-**Stack**
-
-`Shopify` `Liquid` `JavaScript` `CSS`
-
-</td>
-
-<td width="50%">
-
-### 🤖 AI Projects
-
-**Next-generation experiments**
-
-Exploring AI-powered applications, assistants, automation and intelligent interfaces.
-
-**Stack**
-
-`AI` `JavaScript` `APIs` `Cloud`
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-# 📊 GitHub Dashboard
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=000000&title_color=00BA71&icon_color=00BA71&text_color=ffffff&ring_color=00BA71" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=000000&title_color=00BA71&text_color=ffffff" height="180"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=000000&ring=00BA71&fire=00BA71&currStreakLabel=00BA71&sideLabels=ffffff&dates=888888" width="75%"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000000&color=ffffff&line=00BA71&point=00BA71&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=7" width="95%"/>
-
-</div>
-
----
 
 # 💻 Developer Dashboard
 
@@ -347,4 +231,6 @@ Turning ideas into products
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00BA71&height=120&section=footer" width="100%"/>
 
 </div>
+
+
 
