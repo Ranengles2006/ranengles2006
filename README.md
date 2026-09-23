@@ -1,6 +1,6 @@
 <!Doctype html>
 <head>
-<link rel="style.css" type="stylesheet">
+<link href="style.css" rel="stylesheet">
 </head>
 <body>
   <h1>Hello there👌 </h1>
